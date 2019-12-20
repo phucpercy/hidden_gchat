@@ -167,8 +167,4 @@ I've written this script in my free time during my studies. If you find it usefu
 
 Contribute by creating new issues, sending pull requests on Github or you can send an email at: omar.elgabry.93@gmail.com
 
-## License <a name="license"></a>
-Built under [MIT](http://www.opensource.org/licenses/mit-license.php) license.
-
-
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FOmarElGabry%2Fchat.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FOmarElGabry%2Fchat.io?ref=badge_large)
