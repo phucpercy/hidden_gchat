@@ -32,5 +32,9 @@
     "socket.io": "^2.0.3",
     "socket.io-redis": "^5.1.0",
     "winston": "^2.2.0"
+  },
+  "engines": {
+  "node": "12.14.0",
+  "npm": "6.13.4"
   }
 }
